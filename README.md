@@ -5,7 +5,7 @@
   Income App
 </h1>
 
-Repository that contains implementation of the final project for the [APBD](https://github.com/itisarchive/itis-APBD) 
+Repository that contains implementation of the final project for the [APBD](https://github.com/itisarchive/itis-APBD)
 (Database Applications) practical classes, taught by Jakub Biniek during studies on [PJAIT](https://www.pja.edu.pl/en/).
 
 The following code is distributed under the [GPLv3](./LICENSE).
